@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm Thomas van Steen</h1>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/thomas-van-steen-0b4187351/)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/thomas-van-steen-0b4187351/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D76A8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://webthomas.com">
+    <img src="https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="mailto:thomas@webthomas.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 <p>I am an undergraduate at the University of Cape Town majoring in Computer Science and Computer Engineering</p>
 
 ___

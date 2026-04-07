@@ -19,7 +19,14 @@ ___
 <p align="left"> 
   <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> 
   <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> 
+</p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
+</p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=raspberrypi" alt="raspberrypi" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
 </p>
